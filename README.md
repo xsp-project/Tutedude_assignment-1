@@ -19,3 +19,6 @@ Problem Statement: Write a Python program that:
     1.  Takes a user's first name and last name as input.
     2.  Concatenates the first name and last name into a full name.
     3.  Prints a personalized greeting message using the full name.
+
+Output :- 
+https://github.com/xsp-project/Tutedude_assignment-1/blob/84c04cd40f89887d5e3378e62fef85e3e54a9402/Screenshot%202025-04-06%20165422.png
