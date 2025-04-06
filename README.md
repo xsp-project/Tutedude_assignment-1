@@ -10,6 +10,9 @@ Problem Statement: Write a Python program that does the following:
           Multiplication
           Division
     3.  Displays the results of each operation on the screen.
+Output:-  
+
+    
 
 Task 2:- Create a Personalized Greeting
 Problem Statement: Write a Python program that:
